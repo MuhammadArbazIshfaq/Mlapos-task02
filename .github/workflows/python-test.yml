@@ -8,7 +8,7 @@ on:
 
 jobs:
   test:
-    runs-on: windows-latest  # Use a Windows runner
+    runs-on: windows-latest
 
     steps:
     - name: Checkout code
