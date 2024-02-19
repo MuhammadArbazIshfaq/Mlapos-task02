@@ -1,4 +1,3 @@
-# test.py
 from main import StudentsInMLOps
 import pytest
 
